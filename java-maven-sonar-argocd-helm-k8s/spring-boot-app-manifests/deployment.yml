@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: puru00000/ultimate-cicd:4
         ports:
-        - containerPort: 8080
+        - containerPort: 8020
